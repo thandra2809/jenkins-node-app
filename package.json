@@ -1,0 +1,26 @@
+{
+  "name": "jenkins-node-app",
+  "version": "1.0.0",
+  "description": "Testing CI/CD for Node applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thandra2809/jenkins-node-app.git"
+  },
+  "author": "Srinivasa Rao Thandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thandra2809/jenkins-node-app/issues"
+  },
+  "homepage": "https://github.com/thandra2809/jenkins-node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "6.2.0",
+    "supertest": "4.0.2"
+  }
+}
